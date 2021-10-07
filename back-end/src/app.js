@@ -12,10 +12,17 @@ const tablesRouter = require("./tables/tables.router")
 
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+    origin: ['http://localhost:3000', 'https://restaurant-res-client.herokuapp.com'],
+    optionsSuccessStatus: 200, 
+    credentials: true
+  }
+  
+
+app.use(cors(corsOptions));
 app.use(express.json());
 
-app.options('*', cors());
+app.options('*', cors(corsOptions));
 
 app.use("/reservations", reservationsRouter);
 app.use("/tables", tablesRouter)

@@ -16,7 +16,7 @@ The "new table" page allows for the creation of new tables to accommodate differ
 ![Image of Dashboard](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-05-dashboard-finish-button-after.png)
 ![Image of New Reservation](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-01-submit-before.png)
 ![Image of New Table](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-04-create-table-cancel-before.png)
-![Image of Seat](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-04-seat-reservation-submit-before.png)
+![Image of Seat](./us-05-dashboard-finish-button-after.png)
 
 ## Tech Stack:
 

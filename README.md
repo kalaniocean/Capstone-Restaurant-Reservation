@@ -13,10 +13,10 @@ The "search" page allows the user to enter a mobile number to pull up any existi
 The "new table" page allows for the creation of new tables to accommodate different party sizes.
 
 ## Screenshots
-![Image of Dashboard](https://imgur.com/dobGgTO)
-![Image of New Reservation](https://imgur.com/Z0ruP3v)
-![Image of New Table](https://imgur.com/AevQsbD)
-![Image of Seat](https://imgur.com/YMr4BMP)
+![Image of Dashboard](http://imgur.com/dobGgTO)
+![Image of New Reservation](http://imgur.com/Z0ruP3v)
+![Image of New Table](http://imgur.com/AevQsbD)
+![Image of Seat](http://imgur.com/YMr4BMP)
 
 ## Tech Stack:
 

@@ -13,10 +13,10 @@ The "search" page allows the user to enter a mobile number to pull up any existi
 The "new table" page allows for the creation of new tables to accommodate different party sizes.
 
 ## Screenshots
-![Image of Dashboard](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-05-dashboard-finish-button-after.png)
-![Image of New Reservation](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-01-submit-before.png)
-![Image of New Table](https://github.com/kalaniocean/Capstone-Restaurant-Reservation/blob/main/front-end/.screenshots/us-04-create-table-cancel-before.png)
-![Image of Seat](./us-05-dashboard-finish-button-after.png)
+![Image of Dashboard](./us-05-dashboard-finish-button-after.png)
+![Image of New Reservation](./us-04-seat-reservation-submit-before.png)
+![Image of New Table](us-04-create-table-cancel-before.png)
+![Image of Seat](./us-04-seat-reservation-submit-before.png)
 
 ## Tech Stack:
 
